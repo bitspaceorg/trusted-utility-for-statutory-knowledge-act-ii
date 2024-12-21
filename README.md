@@ -17,7 +17,7 @@
 </a>
   &nbsp;&nbsp;&nbsp;
 
-<a href="">
+<a href="https://github.com/bitspaceorg/trusted-utility-for-statutory-knowledge-act-ii/blob/main/HOWTOUSE.md">
        <img src="https://github.com/user-attachments/assets/2676cd53-a2f7-4c37-abc4-1127f00fba86" width=30 />
 </a>
 </div>
